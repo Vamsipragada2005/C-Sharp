@@ -1,0 +1,14 @@
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\variables\bin\Debug\net10.0\Variables.exe
+D:\C#(C sharp)\variables\bin\Debug\net10.0\Variables.deps.json
+D:\C#(C sharp)\variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+D:\C#(C sharp)\variables\bin\Debug\net10.0\Variables.dll
+D:\C#(C sharp)\variables\bin\Debug\net10.0\Variables.pdb
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.dll
+D:\C#(C sharp)\variables\obj\Debug\net10.0\refint\Variables.dll
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.pdb
+D:\C#(C sharp)\variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+D:\C#(C sharp)\variables\obj\Debug\net10.0\ref\Variables.dll

@@ -1,0 +1,14 @@
+D:\C#(C sharp)\UserInput\bin\Debug\net10.0\UserInput.exe
+D:\C#(C sharp)\UserInput\bin\Debug\net10.0\UserInput.deps.json
+D:\C#(C sharp)\UserInput\bin\Debug\net10.0\UserInput.runtimeconfig.json
+D:\C#(C sharp)\UserInput\bin\Debug\net10.0\UserInput.dll
+D:\C#(C sharp)\UserInput\bin\Debug\net10.0\UserInput.pdb
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfoInputs.cache
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfo.cs
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.dll
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\refint\UserInput.dll
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.pdb
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\UserInput.genruntimeconfig.cache
+D:\C#(C sharp)\UserInput\obj\Debug\net10.0\ref\UserInput.dll

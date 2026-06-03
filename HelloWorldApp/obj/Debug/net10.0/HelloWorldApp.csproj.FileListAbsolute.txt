@@ -1,0 +1,14 @@
+D:\C#(C sharp)\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.exe
+D:\C#(C sharp)\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.deps.json
+D:\C#(C sharp)\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.runtimeconfig.json
+D:\C#(C sharp)\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.dll
+D:\C#(C sharp)\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.pdb
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfo.cs
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.dll
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\refint\HelloWorldApp.dll
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.pdb
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.genruntimeconfig.cache
+D:\C#(C sharp)\HelloWorldApp\obj\Debug\net10.0\ref\HelloWorldApp.dll
