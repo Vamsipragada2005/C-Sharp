@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj": {}
+    "D:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj": {}
   },
   "projects": {
-    "d:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj": {
+    "D:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj",
+        "projectUniqueName": "D:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj",
         "projectName": "TypeCasting",
-        "projectPath": "d:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj",
+        "projectPath": "D:\\C#(C sharp)\\TypeCasting\\TypeCasting.csproj",
         "packagesPath": "C:\\Users\\vamsi\\.nuget\\packages\\",
-        "outputPath": "d:\\C#(C sharp)\\TypeCasting\\obj\\",
+        "outputPath": "D:\\C#(C sharp)\\TypeCasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vamsi\\AppData\\Roaming\\NuGet\\NuGet.Config"

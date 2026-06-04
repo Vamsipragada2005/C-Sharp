@@ -1,0 +1,15 @@
+D:\C#(C sharp)\Conditions\bin\Debug\net10.0\Conditions.exe
+D:\C#(C sharp)\Conditions\bin\Debug\net10.0\Conditions.deps.json
+D:\C#(C sharp)\Conditions\bin\Debug\net10.0\Conditions.runtimeconfig.json
+D:\C#(C sharp)\Conditions\bin\Debug\net10.0\Conditions.dll
+D:\C#(C sharp)\Conditions\bin\Debug\net10.0\Conditions.pdb
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.AssemblyInfoInputs.cache
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.AssemblyInfo.cs
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.sourcelink.json
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.dll
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\refint\Conditions.dll
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.pdb
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\Conditions.genruntimeconfig.cache
+D:\C#(C sharp)\Conditions\obj\Debug\net10.0\ref\Conditions.dll

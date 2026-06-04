@@ -1,0 +1,15 @@
+D:\C#(C sharp)\Operators\bin\Debug\net10.0\Operators.exe
+D:\C#(C sharp)\Operators\bin\Debug\net10.0\Operators.deps.json
+D:\C#(C sharp)\Operators\bin\Debug\net10.0\Operators.runtimeconfig.json
+D:\C#(C sharp)\Operators\bin\Debug\net10.0\Operators.dll
+D:\C#(C sharp)\Operators\bin\Debug\net10.0\Operators.pdb
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.AssemblyInfoInputs.cache
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.AssemblyInfo.cs
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.sourcelink.json
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.dll
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\refint\Operators.dll
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.pdb
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\Operators.genruntimeconfig.cache
+D:\C#(C sharp)\Operators\obj\Debug\net10.0\ref\Operators.dll
