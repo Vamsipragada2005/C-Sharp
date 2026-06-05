@@ -1,0 +1,15 @@
+D:\C#(C sharp)\JumpStatements\bin\Debug\net10.0\JumpStatements.exe
+D:\C#(C sharp)\JumpStatements\bin\Debug\net10.0\JumpStatements.deps.json
+D:\C#(C sharp)\JumpStatements\bin\Debug\net10.0\JumpStatements.runtimeconfig.json
+D:\C#(C sharp)\JumpStatements\bin\Debug\net10.0\JumpStatements.dll
+D:\C#(C sharp)\JumpStatements\bin\Debug\net10.0\JumpStatements.pdb
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.AssemblyInfoInputs.cache
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.AssemblyInfo.cs
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.sourcelink.json
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.dll
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\refint\JumpStatements.dll
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.pdb
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\JumpStatements.genruntimeconfig.cache
+D:\C#(C sharp)\JumpStatements\obj\Debug\net10.0\ref\JumpStatements.dll
