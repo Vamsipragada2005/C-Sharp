@@ -1,0 +1,15 @@
+D:\C#(C sharp)\Methods\bin\Debug\net10.0\Methods.exe
+D:\C#(C sharp)\Methods\bin\Debug\net10.0\Methods.deps.json
+D:\C#(C sharp)\Methods\bin\Debug\net10.0\Methods.runtimeconfig.json
+D:\C#(C sharp)\Methods\bin\Debug\net10.0\Methods.dll
+D:\C#(C sharp)\Methods\bin\Debug\net10.0\Methods.pdb
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.AssemblyInfoInputs.cache
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.AssemblyInfo.cs
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.sourcelink.json
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.dll
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\refint\Methods.dll
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.pdb
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\Methods.genruntimeconfig.cache
+D:\C#(C sharp)\Methods\obj\Debug\net10.0\ref\Methods.dll
