@@ -1,0 +1,15 @@
+D:\C#(C sharp)\OOPS\bin\Debug\net10.0\OOPS.exe
+D:\C#(C sharp)\OOPS\bin\Debug\net10.0\OOPS.deps.json
+D:\C#(C sharp)\OOPS\bin\Debug\net10.0\OOPS.runtimeconfig.json
+D:\C#(C sharp)\OOPS\bin\Debug\net10.0\OOPS.dll
+D:\C#(C sharp)\OOPS\bin\Debug\net10.0\OOPS.pdb
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.AssemblyInfoInputs.cache
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.AssemblyInfo.cs
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.csproj.CoreCompileInputs.cache
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.sourcelink.json
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.dll
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\refint\OOPS.dll
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.pdb
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\OOPS.genruntimeconfig.cache
+D:\C#(C sharp)\OOPS\obj\Debug\net10.0\ref\OOPS.dll
