@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#(C sharp)\\Generics\\Generics.csproj": {}
+    "D:\\C#(C sharp)\\Generics\\Generics.csproj": {}
   },
   "projects": {
-    "d:\\C#(C sharp)\\Generics\\Generics.csproj": {
+    "D:\\C#(C sharp)\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#(C sharp)\\Generics\\Generics.csproj",
+        "projectUniqueName": "D:\\C#(C sharp)\\Generics\\Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "d:\\C#(C sharp)\\Generics\\Generics.csproj",
+        "projectPath": "D:\\C#(C sharp)\\Generics\\Generics.csproj",
         "packagesPath": "C:\\Users\\vamsi\\.nuget\\packages\\",
-        "outputPath": "d:\\C#(C sharp)\\Generics\\obj\\",
+        "outputPath": "D:\\C#(C sharp)\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vamsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
